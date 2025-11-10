@@ -37,8 +37,8 @@ I am currently a Ph.D. candidate at the Hong Kong Polytechnic University (PolyU)
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Mastering Full-Pipeline Financial Workflows with LLMs](https://arxiv.org/abs/2505.13533).
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Why Regression? Binary Encoding Classification Brings Confidence to Stock Market Index Price Prediction](https://arxiv.org/abs/2506.03153).
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Zhiming Li, Xiao Huang, Bo Li. [Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning](https://arxiv.org/abs/2505.12465).
-- **[arXiv]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [Evaluating world models with llm for decision making](https://arxiv.org/abs/2411.08794).
-- **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang, Xiao Huang, Hau Chan, Bo An. [In-context exploiter for extensive-form games](https://arxiv.org/abs/2408.05575).
+- **[arXiv]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [Evaluating World Models with LLM for Decision Making](https://arxiv.org/abs/2411.08794).
+- **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang, Xiao Huang, Hau Chan, Bo An. [In-Context Exploiter for Extensive-Form Games](https://arxiv.org/abs/2408.05575).
 
 
 ## Published:
