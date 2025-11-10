@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chang YANG's Homepage"
+title                    : "Joanna Yang's Homepage"
 # description              : "(Multi-Agent) Reinforcement Learning/ Dicision Making, LLM Applications, AI in Fintech."
 repository               : "https://github.com/joannacyang"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Joanna, Chang YANG"
+  name             : "Chang YANG"
   avatar           : "images/photo.jpg"
   bio              : "PhD Candidate @ HK PolyU Computing"
   location         : "Hong Kong SAR, China"
