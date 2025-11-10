@@ -23,7 +23,7 @@ I am currently a PhD candidate at the Hong Kong Polytechnic University (PolyU) u
 
 # 🎉 News
 - [*2025.11*] One paper is accepted by [AAAI'26](https://aaai.org/conference/aaai/aaai-26/).
-- [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504/)\|[Github](https://github.com/joannacyang/rawm.git)]
+- [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504.pdf)\|[Github](https://github.com/joannacyang/rawm.git)]
 - [*2024.06*] Got the <span style="color: #cf5148">**Best Poster Award**</span> in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/) (COMP 50th Anniversary Research Student Conference).
 - [*2025.04*] I passed the Ph.D. confirmation! Huge thanks to my supervisor and committee members!
 - [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
@@ -37,7 +37,8 @@ I am currently a PhD candidate at the Hong Kong Polytechnic University (PolyU) u
 
 
 ## Published:
-- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang†‡**, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An.. [Reinforcement Nash equilibrium solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).
+- **[EMNLP'25 Findings]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf).
+- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang†‡**, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash equilibrium solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://openreview.net/pdf?id=Z55FkgwUq7).
 - **[IJCAI'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [Self-
 adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ijcai.org/proceedings/2024/0016.pdf).
