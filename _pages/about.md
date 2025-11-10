@@ -33,7 +33,12 @@ I am currently a PhD candidate at the Hong Kong Polytechnic University (PolyU) u
 <span style="color: #000000">**[†]: Equal Contribution**</span>, <span style="color: #000000">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
-- **[arXiv 2025]** **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
+- **[arXiv]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
+- **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Mastering Full-Pipeline Financial Workflows with LLMs](https://arxiv.org/abs/2505.13533).
+- **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Why Regression? Binary Encoding Classification Brings Confidence to Stock Market Index Price Prediction](https://arxiv.org/abs/2506.03153).
+- **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Zhiming Li, Xiao Huang, Bo Li. [Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning](https://arxiv.org/abs/2505.12465).
+- **[arXiv]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [Evaluating world models with llm for decision making](https://arxiv.org/abs/2411.08794).
+- **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang, Xiao Huang, Hau Chan, Bo An. [n-context exploiter for extensive-form games](https://arxiv.org/abs/2408.05575).
 
 
 ## Published:
