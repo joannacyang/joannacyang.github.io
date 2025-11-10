@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am currently a Ph.D. candidate at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) under the supervision of [Prof. HUANG Xiao](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. CHUNG Fu Lai Korris](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chung-fu-lai-korris/). Before that, I obtained my BEng from [Beihang University (BUAA)](https://www.buaa.edu.cn/) and MSc from [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests include (Multi-Agent) Reinforcement Learning/ Decision Making, Large Language Models (LLMs), and AI in Fintech.
+I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) under the supervision of [Prof. HUANG Xiao](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. CHUNG Fu Lai Korris](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chung-fu-lai-korris/). Before that, I obtained my BEng from [Beihang University (BUAA)](https://www.buaa.edu.cn/) and MSc from [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests include (Multi-Agent) Reinforcement Learning/ Decision Making, Large Language Models (LLMs), and AI in Fintech.
 
 # 🎉 News
 - [*2025.11*] One paper is accepted by [AAAI'26](https://aaai.org/conference/aaai/aaai-26/).
