@@ -24,7 +24,7 @@ I am currently a PhD candidate at the Hong Kong Polytechnic University (PolyU) u
 # 🎉 News
 - [*2025.11*] One paper is accepted by [AAAI'26](https://aaai.org/conference/aaai/aaai-26/).
 - [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504.pdf)\|[Github](https://github.com/joannacyang/rawm.git)]
-- [*2024.06*] Got the <span style="color: #cf5148">**Best Poster Award**</span> in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/) (COMP 50th Anniversary Research Student Conference).
+- [*2024.06*] Got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/) (COMP 50th Anniversary Research Student Conference).
 - [*2025.04*] I passed the Ph.D. confirmation! Huge thanks to my supervisor and committee members!
 - [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 
@@ -38,7 +38,7 @@ I am currently a PhD candidate at the Hong Kong Polytechnic University (PolyU) u
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Why Regression? Binary Encoding Classification Brings Confidence to Stock Market Index Price Prediction](https://arxiv.org/abs/2506.03153).
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Zhiming Li, Xiao Huang, Bo Li. [Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning](https://arxiv.org/abs/2505.12465).
 - **[arXiv]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [Evaluating world models with llm for decision making](https://arxiv.org/abs/2411.08794).
-- **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang, Xiao Huang, Hau Chan, Bo An. [n-context exploiter for extensive-form games](https://arxiv.org/abs/2408.05575).
+- **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang, Xiao Huang, Hau Chan, Bo An. [In-context exploiter for extensive-form games](https://arxiv.org/abs/2408.05575).
 
 
 ## Published:
