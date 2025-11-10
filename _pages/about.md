@@ -44,11 +44,11 @@ I am currently a Ph.D. candidate at the Hong Kong Polytechnic University (PolyU)
 ## Published:
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://openreview.net/pdf?id=Z55FkgwUq7).
 - **[EMNLP'25 Findings]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf).
-- **[ACL'25 Findings]** Huachi Zhou†, Jiahe Du†, Chuang Zhou, **Chang Yang**, Yilin Xiao, Yuxuan Xie, Xiao Huang‡. [Each graph is a new language: Graph Learning with LLMs](https://aclanthology.org/2025.findings-acl.902.pdf).
-- **[ICML'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Shuyue Hu, Xiao Huang, Hau Chan, Bo An. [Configurable mirror descent: Towards a unification of decision making](https://proceedings.mlr.press/v235/li24an.html).
+- **[ACL'25 Findings]** Huachi Zhou†, Jiahe Du†, Chuang Zhou, **Chang Yang**, Yilin Xiao, Yuxuan Xie, Xiao Huang‡. [Each Graph is a New Language: Graph Learning with LLMs](https://aclanthology.org/2025.findings-acl.902.pdf).
+- **[ICML'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Shuyue Hu, Xiao Huang, Hau Chan, Bo An. [Configurable Mirror Descent: Towards a Unification of Decision Making](https://proceedings.mlr.press/v235/li24an.html).
 - **[IJCAI'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [Self-
 adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ijcai.org/proceedings/2024/0016.pdf).
-- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang†‡**, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash equilibrium solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).
+- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang†‡**, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash Equilibrium Solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).
 
 
 # 🏆 Honors and Awards
