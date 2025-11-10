@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qinggang Zhang"
-# description              : "Graph learning, reasoning, Large Language Models."
-repository               : "https://github.com/Qing145"
+title                    : "Chang YANG's Homepage"
+# description              : "(Multi-Agent) Reinforcement Learning/ Dicision Making, LLM Applications, AI in Fintech."
+repository               : "https://github.com/joannacyang"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qinggang Zhang"
-  avatar           : "images/photo.png"
-  bio              : "Postdoctoral Fellow @ HK PolyU Computing"
+  name             : "Joanna, Chang YANG"
+  avatar           : "images/photo.jpg"
+  bio              : "PhD Candidate @ HK PolyU Computing"
   location         : "Hong Kong SAR, China"
   # employer         : "Hong Kong Polytechnic University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en"
-  email            : "qinggang.zhang@polyu.edu.hk"
+  googlescholar    : ""
+  email            : "chang.yang@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Qing145"
+  github           : "joannacyang"
   google_plus      :
   keybase          :
   instagram        :
