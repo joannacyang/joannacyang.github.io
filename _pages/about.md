@@ -30,15 +30,16 @@ I am currently a PhD candidate at the Hong Kong Polytechnic University (PolyU) u
 
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=T72Zu6sAAAAJ&hl=zh-CN))
-<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>, <span style="color: #7A9D96">**[*]: Equal Contribution**</span>
+<span style="color: #000000">**[†]: Equal Contribution**</span>, <span style="color: #000000">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
 - **[arXiv 2025]** **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 
 
 ## Published:
+- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang†‡**, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An.. [Reinforcement Nash equilibrium solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://openreview.net/pdf?id=Z55FkgwUq7).
-- **[IJCAI'24]** Pengdeng Li, Shuxin Li*, **Chang Yang***, Xinrun Wang, Xiao Huang, Hau Chan, Bo An. [Self-
+- **[IJCAI'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [Self-
 adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ijcai.org/proceedings/2024/0016.pdf).
 
 
