@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chang Yang"
   avatar           : "images/photo.jpg"
-  bio              : "PhD Candidate @ HK PolyU Computing"
+  bio              : "Ph.D. Candidate @ HK PolyU Computing"
   location         : "Hong Kong SAR, China"
   # employer         : "Hong Kong Polytechnic University"
   pubmed           : 
