@@ -53,10 +53,10 @@ adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ij
 
 # 🏆 Honors and Awards
 - [*2025*] PolyU COMP ARSC 2025 Best Poster Award
-- [*2021*] Outstanding Graduate Award (undergraduate in BUAA)
+- [*2021*] BUAA Outstanding Graduate Award
 - [*2020*] MCM/ICM Honorable Mention
-- [*2020*] Beihang First-class Scholarship in Academic Contest
-- [*2018-2020*] Beihang First/Second-class Scholarship
+- [*2020*] BUAA First-class Scholarship in Academic Contest
+- [*2018-2020*] BUAA First/Second-class Scholarship
 
 # 💼 Academic Service
 
