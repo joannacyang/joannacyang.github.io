@@ -24,7 +24,7 @@ I am currently a Ph.D. candidate at the Hong Kong Polytechnic University (PolyU)
 # 🎉 News
 - [*2025.11*] One paper is accepted by [AAAI'26](https://aaai.org/conference/aaai/aaai-26/).
 - [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504.pdf)\|[Github](https://github.com/joannacyang/rawm.git)]
-- [*2024.06*] Got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/) (COMP 50th Anniversary Research Student Conference).
+- [*2024.06*] Got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) (PolyU COMP - HKUST (GZ) INFH Research Student Conference).
 - [*2025.04*] I passed the Ph.D. confirmation. Thanks to my supervisors and panel members [Prof. YIU Man Lung Ken](https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/), and [Prof. LI Bo](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-bo/).
 - [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 
@@ -52,7 +52,7 @@ adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ij
 
 
 # 🏆 Honors and Awards
-- [*2025*] PolyU COMP ARSC 2025 Best Poster Award
+- [*2025*] PolyU ARSC 2025 Best Poster Award
 - [*2021*] BUAA Outstanding Graduate Award
 - [*2020*] MCM/ICM Honorable Mention
 - [*2020*] BUAA First-class Scholarship in Academic Contest
