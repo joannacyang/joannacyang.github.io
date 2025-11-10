@@ -56,7 +56,7 @@ adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ij
 - [*2021*] BUAA Outstanding Graduate Award
 - [*2020*] MCM/ICM Honorable Mention
 - [*2020*] BUAA First-class Scholarship in Academic Contest
-- [*2018-2020*] BUAA First/Second-class Scholarship
+- [*2018-2020*] BUAA First/Second-class Scholarship ~ Three Times
 
 # 💼 Academic Service
 
