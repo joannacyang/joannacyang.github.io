@@ -52,7 +52,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 - **[ICML'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Shuyue Hu, Xiao Huang, Hau Chan, Bo An. [Configurable Mirror Descent: Towards a Unification of Decision Making](https://proceedings.mlr.press/v235/li24an.html).
 - **[IJCAI'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [Self-
 adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ijcai.org/proceedings/2024/0016.pdf).
-- **[ELSEVIER Computers &amp Security'22]** Zhen Wang, Yitao Zheng, Hai Zhu, **Chang Yang**, Tianyi Chen‡. [Transferable adversarial examples can efficiently fool topic models](https://www.sciencedirect.com/science/article/pii/S0167404822001444).
+- **[ELSEVIER Computers &amp; Security'22]** Zhen Wang, Yitao Zheng, Hai Zhu, **Chang Yang**, Tianyi Chen‡. [Transferable adversarial examples can efficiently fool topic models](https://www.sciencedirect.com/science/article/pii/S0167404822001444).
 
 
 # 🏆 Honors and Awards
