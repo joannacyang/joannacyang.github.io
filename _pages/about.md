@@ -42,7 +42,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published (First Author):
-- **[EMNLP'25 Findings]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf).
+- **[EMNLP'25]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf). (Findings)
 <!--The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Findings)-->
 
 - **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang**†‡, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash Equilibrium Solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).  
@@ -53,7 +53,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://openreview.net/pdf?id=Z55FkgwUq7).  
 <!--The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)-->
 
-- **[ACL'25 Findings]** Huachi Zhou†, Jiahe Du†, Chuang Zhou, **Chang Yang**, Yilin Xiao, Yuxuan Xie, Xiao Huang‡. [Each Graph is a New Language: Graph Learning with LLMs](https://aclanthology.org/2025.findings-acl.902.pdf).
+- **[ACL'25]** Huachi Zhou†, Jiahe Du†, Chuang Zhou, **Chang Yang**, Yilin Xiao, Yuxuan Xie, Xiao Huang‡. [Each Graph is a New Language: Graph Learning with LLMs](https://aclanthology.org/2025.findings-acl.902.pdf). (Findings)
 <!--The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25 Findings)-->
 
 - **[ICML'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Shuyue Hu, Xiao Huang, Hau Chan, Bo An. [Configurable Mirror Descent: Towards a Unification of Decision Making](https://proceedings.mlr.press/v235/li24an.html).
