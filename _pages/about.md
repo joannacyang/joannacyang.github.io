@@ -22,9 +22,10 @@ redirect_from:
 I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) under the supervision of [Prof. HUANG Xiao](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. CHUNG Fu Lai Korris](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chung-fu-lai-korris/). Before that, I obtained my BEng from [Beihang University (BUAA)](https://www.buaa.edu.cn/) and MSc from [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests include (Multi-Agent) Reinforcement Learning/ Decision Making, Large Language Models (LLMs), and AI in Fintech.
 
 # 🎉 News
+- [*2025.12*] I was awarded the competitive [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) (PolyU PhD Scholars International Collaborative Research Fellowship) grant.
 - [*2025.11*] Our paper AimKP is accepted by AAAI'26. [[Paper](https://arxiv.org/pdf/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504.pdf)\|[Github](https://github.com/joannacyang/rawm.git)]
-- [*2025.06*] Got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) (PolyU COMP - HKUST (GZ) INFH Research Student Conference).
+- [*2025.06*] I got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) (PolyU COMP - HKUST (GZ) INFH Research Student Conference).
 - [*2025.04*] I passed the Ph.D. confirmation. Thanks to my supervisors and panel members [Prof. YIU Man Lung Ken](https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/) and [Prof. LI Bo](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-bo/).
 - [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
 
@@ -64,6 +65,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 # 🏆 Honors and Awards
+- [*2025*] PolyU [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) and [RSAP-Outgoing](https://www.polyu.edu.hk/gs/current-students/rsap_outgoing/) Grants
 - [*2025*] PolyU ARSC 2025 Best Poster Award
 - [*2021*] BUAA Outstanding Graduate Award
 <!--- [*2020*] MCM/ICM Honorable Mention-->
