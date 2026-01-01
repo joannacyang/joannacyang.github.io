@@ -65,7 +65,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 # 🏆 Honors and Awards
-- [*2025*] PolyU [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) and [RSAP-Outgoing](https://www.polyu.edu.hk/gs/current-students/rsap_outgoing/) Grants
+- [*2025*] PolyU Competitive [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) and [RSAP-Outgoing](https://www.polyu.edu.hk/gs/current-students/rsap_outgoing/) Grants
 - [*2025*] PolyU [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) Best Poster Award
 - [*2021*] BUAA Outstanding Graduate Award
 <!--- [*2020*] MCM/ICM Honorable Mention-->
