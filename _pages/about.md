@@ -22,7 +22,7 @@ redirect_from:
 I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) under the supervision of [Prof. HUANG Xiao](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. CHUNG Fu Lai Korris](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chung-fu-lai-korris/). Before that, I obtained my BEng from [Beihang University (BUAA)](https://www.buaa.edu.cn/) and MSc from [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests include (Multi-Agent) Reinforcement Learning/ Decision Making, Large Language Models (LLMs), and AI in Fintech.
 
 # 🎉 News
-- [*2026.01*] Our paper NPPC is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
+- [*2026.01*] Our paper NPPC is accepted by TMLR'26. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
 - [*2025.12*] I was awarded the competitive grant [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) (PolyU PhD Scholars International Collaborative Research Fellowship).
 - [*2025.11*] Our paper AimKP is accepted by AAAI'26. [[Paper](https://arxiv.org/pdf/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504.pdf)\|[Github](https://github.com/joannacyang/rawm.git)]
