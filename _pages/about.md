@@ -42,7 +42,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published (First Author):
-- **[TMLR'26]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
+- **[TMLR'26]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
   
 - **[EMNLP'25]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf). (Findings)
 <!--The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Findings)-->
