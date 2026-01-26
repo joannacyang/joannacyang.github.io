@@ -24,7 +24,6 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 # 🎉 News
 - [*2026.01*] Our paper NPPC is accepted by TMLR'26. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
 - [*2025.12*] I was awarded the competitive grant [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) (PolyU PhD Scholars International Collaborative Research Fellowship).
-- [*2025.11*] Our paper AimKP is accepted by AAAI'26. [[Paper](https://arxiv.org/pdf/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://aclanthology.org/2025.findings-emnlp.504.pdf)\|[Github](https://github.com/joannacyang/rawm.git)]
 - [*2025.06*] I got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) (PolyU COMP - HKUST (GZ) INFH Research Student Conference).
 - [*2025.04*] I passed the Ph.D. confirmation. Thanks to my supervisors and panel members [Prof. YIU Man Lung Ken](https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/) and [Prof. LI Bo](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-bo/).
