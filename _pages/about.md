@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) under the supervision of [Prof. HUANG Xiao](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. CHUNG Fu Lai Korris](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chung-fu-lai-korris/). Before that, I obtained my BEng from [Beihang University (BUAA)](https://www.buaa.edu.cn/) and MSc from [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests include (Multi-Agent) Reinforcement Learning/ Decision Making, Large Language Models (LLMs), and AI in Fintech.
+I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) under the supervision of [Prof. HUANG Xiao](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. CHUNG Fu Lai Korris](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chung-fu-lai-korris/). I will be a visiting student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/) under the supervision of  [Prof. AN Bo](https://personal.ntu.edu.sg/boan/). Before that, I obtained my BEng from [Beihang University (BUAA)](https://www.buaa.edu.cn/) and MSc from [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests include (Multi-Agent) Reinforcement Learning/ Decision Making, Large Language Models (LLMs), and AI in Fintech.
 
 # 🎉 News
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory)]
@@ -75,6 +75,6 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 # 💼 Academic Service
 
-- **Invited Reviewer:** ACL'26, ICLR'26, IJCAI('25,'26), AAMAS’24, TKDD’23
+- **Invited Reviewer:** ACL'26, ICLR'26, IJCAI('25,'26), IJCNN'26, AAMAS’24, TKDD’23
 - **Teaching Assistant:** Database Systems (2023 Fall, 2025 Fall), Big Data Analytics (2024 Spring, 2024 Fall, 2025 Spring)
 
