@@ -41,19 +41,15 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 - **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [In-Context Exploiter for Extensive-Form Games](https://arxiv.org/abs/2408.05575).
 
 
-## Published (First Author):
+## Published:
 - **[TMLR'26]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://openreview.net/pdf/8c1dbb4f91a485e1b8babc0477adffd7ad8c274b.pdf).
   
-- **[EMNLP'25]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf). (Findings)
-<!--The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Findings)-->
 
-- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang**†‡, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash Equilibrium Solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).  
-<!--The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)-->
-
-
-## Published (Co-author):
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://arxiv.org/pdf/2512.00928).  
 <!--The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)-->
+
+- **[EMNLP'25]** **Chang Yang**, Xinrun Wang‡, Qinggang Zhang, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://aclanthology.org/2025.findings-emnlp.504.pdf). (Findings)
+<!--The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Findings)-->
 
 - **[ACL'25]** Huachi Zhou†, Jiahe Du†, Chuang Zhou, **Chang Yang**, Yilin Xiao, Yuxuan Xie, Xiao Huang‡. [Each Graph is a New Language: Graph Learning with LLMs](https://aclanthology.org/2025.findings-acl.902.pdf). (Findings)
 <!--The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25 Findings)-->
@@ -62,6 +58,9 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 <!--The 41st International Conference on Machine Learning (ICML'24)-->
 
 - **[IJCAI'24]** Pengdeng Li, Shuxin Li†, **Chang Yang†**, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [Self-adaptive PSRO: Towards an Automatic Population-based Game Solver](https://www.ijcai.org/proceedings/2024/0016.pdf).
+<!--The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)-->
+
+- **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang**†‡, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash Equilibrium Solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).  
 <!--The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)-->
 
 
