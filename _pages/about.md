@@ -32,6 +32,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 <span style="color: #000000">**[†]: Equal Contribution**</span>, <span style="color: #000000">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
+- **[arXiv]** Zhishang Xiang†, Chengyi Yang†, Zerui Chen, Zhimin Wei, Yunbo Tang, Zongpei Teng, Zexi Peng, Zongxia Li, Chengsong Huang, Yicheng He, **Chang Yang**, Xinrun Wang, Xiao Huang, Qinggang Zhang‡, Jinsong Su‡. [A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution](https://www.techrxiv.org/users/1029728/articles/1389627-a-systematic-survey-of-self-evolving-agents-from-model-centric-to-environment-driven-co-evolution?commit=6f818df82a1e8f72c63c3cf6085aee6689e01db9).
 - **[arXiv]** **Chang Yang†**, Chuang Zhou†, Yilin Xiao†, Su Dong, Luyao Zhuang, Yujing Zhang, Zhu Wang, Zijin Hong, Zheng Yuan, Zhishang Xiang, Shengyuan Chen‡, Huachi Zhou‡, Qinggang Zhang‡, Ninghao Liu, Jinsong Su, Xinrun Wang, Yi Chang, Xiao Huang. [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665).
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Mastering Full-Pipeline Financial Workflows with LLMs](https://arxiv.org/abs/2505.13533).
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Zhiming Li, Xiao Huang, Bo Li. [Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning](https://arxiv.org/abs/2505.12465).
