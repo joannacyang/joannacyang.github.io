@@ -39,7 +39,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published:
-- **[ACL'26]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun‡, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Full-Pipeline Financial Management with Large Language Models](https://arxiv.org/abs/2505.13533). (Findings)
+- **[ACL'26]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Yujing Zhang, Yilin Xiao, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun‡, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Full-Pipeline Financial Management with Large Language Models](https://arxiv.org/abs/2505.13533). (Findings)
 
 - **[IJCNN'26]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Beyond Regression: Binary Encoding Classification with Confidence for Stock Index Prediction](https://arxiv.org/abs/2506.03153).
 
