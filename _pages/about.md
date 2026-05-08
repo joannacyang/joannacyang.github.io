@@ -43,6 +43,8 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 - **[TMLR'26]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://arxiv.org/abs/2411.08794).
 
+-- **[IJCNN'26]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Beyond Regression: Binary Encoding Classification with Confidence for Stock Index Prediction](https://arxiv.org/abs/2506.03153).
+
 - **[TMLR'26]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://openreview.net/pdf/8c1dbb4f91a485e1b8babc0477adffd7ad8c274b.pdf). [[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
   
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://arxiv.org/pdf/2512.00928).  
@@ -64,8 +66,6 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 <!--The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)-->
 
 
-<!-- **[IJCNN'26]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Beyond Regression: Binary Encoding Classification with Confidence for Stock Index Prediction](https://arxiv.org/abs/2506.03153).-->
-
 
 
 # 🏆 Honors and Awards
@@ -78,6 +78,6 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 # 💼 Academic Service
 
-- **Invited Reviewer:** ACL'26, ICLR'26, IJCAI('25,'26), IJCNN'26, AAMAS’24, TKDD’23
+- **Invited Reviewer:** NeurIPS'26, ACL'26, ICLR'26, IJCAI('25,'26), IJCNN'26, AAMAS’24, TKDD’23
 - **Teaching Assistant:** Database Systems (2023 Fall, 2025 Fall), Big Data Analytics (2024 Spring, 2024 Fall, 2025 Spring)
 
