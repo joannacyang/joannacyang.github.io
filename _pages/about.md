@@ -32,7 +32,9 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 <span style="color: #000000">**[†]: Equal Contribution**</span>, <span style="color: #000000">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
+- **[arXiv]** Xinrun Wang†, **Chang Yang†**, He Zhao, Zhuoyi Lin, Shuyue Hu. [The Agent Use of Agent Beings: Agent Cybernetics Is the Missing Science of Foundation Agents](https://arxiv.org/abs/2605.10754).
 - **[arXiv]** Zhishang Xiang†, Chengyi Yang†, Zerui Chen, Zhimin Wei, Yunbo Tang, Zongpei Teng, Zexi Peng, Zongxia Li, Chengsong Huang, Yicheng He, **Chang Yang**, Xinrun Wang, Xiao Huang, Qinggang Zhang‡, Jinsong Su‡. [A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution](https://www.techrxiv.org/users/1029728/articles/1389627-a-systematic-survey-of-self-evolving-agents-from-model-centric-to-environment-driven-co-evolution?commit=6f818df82a1e8f72c63c3cf6085aee6689e01db9).
+- **[arXiv]** Yilin Xiao, Chuang Zhou, Yujing Zhang, Qinggang Zhang, Su Dong, Shengyuan Chen, **Chang Yang**, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
 - **[arXiv]** **Chang Yang†**, Chuang Zhou†, Yilin Xiao†, Su Dong, Luyao Zhuang, Yujing Zhang, Zhu Wang, Zijin Hong, Zheng Yuan, Zhishang Xiang, Shengyuan Chen‡, Huachi Zhou‡, Qinggang Zhang‡, Ninghao Liu, Jinsong Su, Xinrun Wang, Yi Chang, Xiao Huang. [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665).
 - **[arXiv]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Zhiming Li, Xiao Huang, Bo Li. [Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning](https://arxiv.org/abs/2505.12465).
 - **[arXiv]** Shuxin Li†, **Chang Yang†**, Youzhi Zhang, Pengdeng Li, Xinrun Wang‡, Xiao Huang, Hau Chan, Bo An. [In-Context Exploiter for Extensive-Form Games](https://arxiv.org/abs/2408.05575).
