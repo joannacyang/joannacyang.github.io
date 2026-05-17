@@ -41,7 +41,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published:
-- **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4Sciences Track)
+- **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang‡. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4S Track)
 
 - **[ACL'26]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Yujing Zhang, Yilin Xiao, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun‡, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Full-Pipeline Financial Management with Large Language Models](https://arxiv.org/abs/2505.13533). (Findings)
 
