@@ -43,14 +43,12 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 ## Published:
 - **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang‡. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4S Track)
 
-- **[ACL'26]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Yujing Zhang, Yilin Xiao, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun‡, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Full-Pipeline Financial Management with Large Language Models](https://arxiv.org/abs/2505.13533). (Findings)
-
 - **[TMLR'26]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://arxiv.org/abs/2411.08794).
 
-- **[IJCNN'26]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Beyond Regression: Binary Encoding Classification with Confidence for Stock Index Prediction](https://arxiv.org/abs/2506.03153).
+- **[ACL'26]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Yujing Zhang, Yilin Xiao, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun‡, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Full-Pipeline Financial Management with Large Language Models](https://arxiv.org/abs/2505.13533). (Findings)
 
 - **[TMLR'26]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://openreview.net/pdf/8c1dbb4f91a485e1b8babc0477adffd7ad8c274b.pdf). [[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
-  
+
 - **[AAAI'26]** Jiajun Cao, Qinggang Zhang‡, Yunbo Tang, Zhishang Xiang, **Chang Yang**, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://arxiv.org/pdf/2512.00928).  
 <!--The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)-->
 
@@ -68,6 +66,8 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 - **[IJCAI'24]** Xinrun Wang†‡, **Chang Yang**†‡, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An. [Reinforcement Nash Equilibrium Solver](https://www.ijcai.org/Proceedings/2024/0030.pdf).  
 <!--The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)-->
+
+<!-- **[IJCNN'26]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Beyond Regression: Binary Encoding Classification with Confidence for Stock Index Prediction](https://arxiv.org/abs/2506.03153). -->
 
 
 
