@@ -82,6 +82,6 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 # 💼 Academic Service
 
-- **Invited Reviewer:** NeurIPS'26, ACL'26, ICLR'26, IJCAI('25,'26), IJCNN'26, AAMAS’24, TKDD’23
+- **Invited Reviewer:** NeurIPS'26, ACL'26, ICLR'26, IJCAI('25,'26), AAMAS’24
 - **Teaching Assistant:** Database Systems (2023 Fall, 2025 Fall), Big Data Analytics (2024 Spring, 2024 Fall, 2025 Spring)
 
