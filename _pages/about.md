@@ -41,7 +41,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published:
-- **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang‡. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4S Track)
+- **[KDD'26]** Huachi Zhou, Jiahe Du‡, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4S Track)
 
 - **[TMLR'26]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://arxiv.org/abs/2411.08794).
 
