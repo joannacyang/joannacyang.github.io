@@ -41,7 +41,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published:
-- **[EMNLP'26]** Yujing Zhang, Huachi Zhou, Ruochen Liu, Qinggang Zhang, Luyao Zhuang, Hao Chen, Zijin Hong, **Chang Yang**, Xiao Huang. [When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation]().
+- **[EMNLP'26]** Yujing Zhang†, Huachi Zhou†, Ruochen Liu, Qinggang Zhang‡, Luyao Zhuang, Hao Chen, Zijin Hong, **Chang Yang**, Xiao Huang. [When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation]().
 
 - **[KDD'26]** Huachi Zhou, Jiahe Du‡, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4S Track)
 
