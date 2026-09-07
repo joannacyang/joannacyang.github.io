@@ -82,6 +82,13 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 - [*2020*] BUAA First-class Scholarship in Academic Contest
 - [*2018-2020*] BUAA First/Second-class Scholarship ~ Three Times
 
+
+# 🧑‍💻 Working Experience
+- **AI Researcher**, [Agency for Science, Technology and Research (A*STAR)
+](https://www.a-star.edu.sg/i2r), Singapore
+- Supervisor: [Dr. LIN Zhuoyi](https://sites.google.com/site/linzhuoyi1995)
+
+
 # 💼 Academic Service
 
 - **Invited Reviewer:** NeurIPS'26, ICLR'26, ACL'26, EMNLP'26, IJCAI(’25,'26), AAMAS'24
