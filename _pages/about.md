@@ -85,7 +85,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 # 🧑‍💻 Working Experience
 - **AI Researcher**, [Agency for Science, Technology and Research (A*STAR)
-](https://www.a-star.edu.sg/i2r), Singapore
+](https://www.a-star.edu.sg/iaic), Singapore
  <!--- - Supervisor: [Dr. LIN Zhuoyi](https://sites.google.com/site/linzhuoyi1995)-->
 
 
