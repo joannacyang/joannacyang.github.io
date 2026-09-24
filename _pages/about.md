@@ -24,7 +24,6 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 # 🎉 News
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory)]
 - [*2025.12*] I was awarded the competitive grant [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) (PolyU PhD Scholars International Collaborative Research Fellowship).
-- [*2025.06*] I got the Best Poster Award in [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) (PolyU COMP - HKUST (GZ) INFH Research Student Conference).
 - [*2025.04*] I passed the Ph.D. confirmation. Thanks to my supervisors and panel members [Prof. YIU Man Lung Ken](https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/) and [Prof. LI Bo](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-bo/).
 
 
@@ -50,6 +49,8 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 - **[TMLR'26]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://arxiv.org/abs/2411.08794).
 
 - **[ACL'26]** Junzhe Jiang†, **Chang Yang†**, Aixin Cui, Sihan Jin, Yujing Zhang, Yilin Xiao, Ruiyu Wang, Bo Li, Xiao Huang, Dongning Sun‡, Xinrun Wang‡. [FinMaster: A Holistic Benchmark for Full-Pipeline Financial Management with Large Language Models](https://arxiv.org/abs/2505.13533). (Findings)
+
+- **[IJCNN'26]** Junzhe Jiang†, **Chang Yang†**, Xinrun Wang‡, Bo Li. [Beyond Regression: Binary Encoding Classification with Confidence for Stock Index Prediction](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/DBDqo-ijcnn_pap4982s2.pdf).
 
 - **[TMLR'26]** **Chang Yang†**, Ruiyu Wang†, Junzhe Jiang, Qi Jiang, Qinggang Zhang, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://openreview.net/pdf/8c1dbb4f91a485e1b8babc0477adffd7ad8c274b.pdf). [[Github](https://github.com/SMU-DIGA/nppc)\|[Leaderboard](https://ruiyuwang.github.io/nppc_leaderboard/)]
 
