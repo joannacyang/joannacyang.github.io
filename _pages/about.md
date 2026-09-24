@@ -41,9 +41,11 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 ## Published:
+- **[NeurIPS'26]** **Chang Yang**, Xinrun Wang‡, Shuxin Li, Qinggang Zhang, Huachi Zhou, Zhuoyi Lin, Bo Li, Xiao Huang.  [Language Models Demand New Computer Science](). (Position Track)
+
 - **[EMNLP'26]** Yujing Zhang†, Huachi Zhou†, Ruochen Liu, Qinggang Zhang‡, Luyao Zhuang, Hao Chen, Zijin Hong, **Chang Yang**, Xiao Huang. [When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation]().
 
-- **[KDD'26]** Huachi Zhou, Jiahe Du‡, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](). (AI4S Track)
+- **[KDD'26]** Huachi Zhou, Jiahe Du‡, Yujing Zhang, Luyao Zhuang, **Chang Yang**, Zijin Hong, Jiaqi Bai, Qinggang Zhang, Kaixiong Zhou, Xiao Huang. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](https://dl.acm.org/doi/epdf/10.1145/3770855.3819053). (AI4S Track)
 
 - **[TMLR'26]** **Chang Yang**, Xinrun Wang‡, Junzhe Jiang, Qinggang Zhang, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://arxiv.org/abs/2411.08794).
 
@@ -75,6 +77,7 @@ I am currently a Ph.D. candidate at [The Hong Kong Polytechnic University (PolyU
 
 
 # 🏆 Honors and Awards
+- [*2026*] PolyU COMP The Most Appreciated Teaching Assistant (MATA) Award in 2025/2026 (Recognition Award)
 - [*2025*] PolyU Competitive [ICRF](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) (~$55,000HKD) and [RSAP-Outgoing](https://www.polyu.edu.hk/gs/current-students/rsap_outgoing/) Grants
 - [*2025*] PolyU [ARSC'25](https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/) Best Poster Award
 - [*2021*] BUAA Outstanding Graduate Award
